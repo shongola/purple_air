@@ -69,6 +69,7 @@ def purple_air_df():
 
     print('CLEAN DATAFRAME SHAPE IS...')
     print(purple_air_df.shape)
+    print(purple_air_df.head())
 
     return purple_air_df
 
